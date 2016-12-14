@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Qbis auto login
 // @namespace   Qbis
-// @include     https://login.qbis.se/
+// @include     https://login.qbis.se/Login/login
 // @version     1
 // @grant       GM_getValue
 // @grant       GM_setValue
